@@ -12,6 +12,7 @@
 		0390F1BF1F0EF43100B2338F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0390F1BD1F0EF43100B2338F /* Main.storyboard */; };
 		0390F1C11F0EF43100B2338F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0390F1C01F0EF43100B2338F /* Assets.xcassets */; };
 		0390F1C41F0EF43100B2338F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0390F1C21F0EF43100B2338F /* LaunchScreen.storyboard */; };
+		0390F1CC1F0EFA6E00B2338F /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0390F1CB1F0EFA6E00B2338F /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0390F1C01F0EF43100B2338F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0390F1C31F0EF43100B2338F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0390F1C51F0EF43100B2338F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0390F1CB1F0EFA6E00B2338F /* MapForItinerary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				0390F1B91F0EF43100B2338F /* AppDelegate.swift */,
+				0390F1CB1F0EFA6E00B2338F /* MapForItinerary.swift */,
 				0390F1BB1F0EF43100B2338F /* ViewController.swift */,
 				0390F1BD1F0EF43100B2338F /* Main.storyboard */,
 				0390F1C01F0EF43100B2338F /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			files = (
 				0390F1BC1F0EF43100B2338F /* ViewController.swift in Sources */,
 				0390F1BA1F0EF43100B2338F /* AppDelegate.swift in Sources */,
+				0390F1CC1F0EFA6E00B2338F /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
